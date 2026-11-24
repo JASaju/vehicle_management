@@ -1,0 +1,1 @@
+<x-livewire-powergrid::icons.download class="h-5 w-5 shrink-0 text-zinc-500 dark:text-zinc-300" />
