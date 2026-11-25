@@ -19,7 +19,7 @@ Requirements: PHP 8.3+, Composer 2, Node.js 20.19+ (or 22.12+), and the PHP exte
 ```bash
 # From the extracted vehicle-app project folder
 composer install
-copy another from localhost
+.env: copy another from localhost
 php artisan key:generate
 # Edit .env: database, APP_URL, ADMIN_EMAIL, ADMIN_PASSWORD
 php artisan migrate --seed
