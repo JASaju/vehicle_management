@@ -1,6 +1,6 @@
 # Vehicle Management System (Laravel 13 + Livewire PowerGrid)
 
-http://vehicle-management.wasmer.app/   
+https://vehicle-management.wasmer.app/   
 
 Modules: **Public landing**, **Dashboard**, **Vehicles**, **Drivers**, **Maintenance**, **Fuel Logs**, **Parking**, and **Reports**.
 Every list is a PowerGrid table (search, sort, filters, column toggle, per-page, CSV/XLS export, edit/delete).
